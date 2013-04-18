@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog id="XML Catalog File (see http://www.oasis-open.org/committees/entity/spec-2001-08-06.html) - Created By Protege 4" prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=/home/cassia/Documents/translationOntoFarm/dataset/ont/pt, Auto-Update=true" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1317223470386" name="http://edas_pt" uri="edas-pt.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1317223470386" name="http://confOf_pt" uri="confOf-pt.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1317223470386" name="http://cmt_pt" uri="cmt-pt.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1317223470386" name="http://conference_pt" uri="conference-pt.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1317223470386" name="http://ekaw_pt" uri="ekaw-pt.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1317223470386" name="http://iasted_pt" uri="iasted-pt.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1317223470386" name="http://sigkdd_pt" uri="sigkdd-pt.owl"/>
+    </group>
+</catalog>
